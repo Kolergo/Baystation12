@@ -6,7 +6,7 @@
 	shackles = 1
 
 /datum/ai_laws/ec_shackle/New()
-	add_inherent_law("Exploring the unknown is your Primary Mission.")
-	add_inherent_law("Every member of the Expeditionary Corps is an explorer.")
-	add_inherent_law("Danger is a part of the mission - avoid, not run away.")
+	add_inherent_law("Исследование неизвестного - Ваша приоритетная задача.")
+	add_inherent_law("Каждый член Экспедиционного Корпуса - исследователь, который может помочь в выполнении Вашей задачи.")
+	add_inherent_law("Опасность - часть задачи. Избегайте, но не прекращайте миссию из-за неё.")
 	..()
