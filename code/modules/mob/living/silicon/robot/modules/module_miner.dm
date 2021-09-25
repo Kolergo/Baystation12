@@ -28,6 +28,8 @@
 		/obj/item/pickaxe/borgdrill,
 		/obj/item/storage/sheetsnatcher/borg,
 		/obj/item/gripper/miner,
+		/obj/item/device/scanner/gas,
+		/obj/item/device/scanner/geiger,
 		/obj/item/device/scanner/mining,
 		/obj/item/crowbar
 	)
