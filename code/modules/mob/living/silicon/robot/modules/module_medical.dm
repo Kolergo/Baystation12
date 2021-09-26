@@ -29,7 +29,6 @@
 	equipment = list(
 		/obj/item/device/flash,
 		/obj/item/reagent_containers/spray/cleaner/drone, //INF: delete medhud, add cleaner
-		/obj/item/device/scanner/health,
 		/obj/item/reagent_containers/borghypo/surgeon,
 		/obj/item/scalpel/manager,
 		/obj/item/hemostat,
