@@ -104,7 +104,6 @@
 		/obj/item/crowbar,
 		/obj/item/device/flash,
 		/obj/item/reagent_containers/spray/cleaner/drone, //INF: delete medhud, add cleaner
-		/obj/item/device/scanner/health,
 		/obj/item/device/scanner/reagent/adv,
 		/obj/item/robot_rack/body_bag,
 		/obj/item/reagent_containers/borghypo/crisis,
