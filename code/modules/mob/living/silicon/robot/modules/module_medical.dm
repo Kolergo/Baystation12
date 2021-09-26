@@ -28,7 +28,7 @@
 		)
 	equipment = list(
 		/obj/item/device/flash,
-		/obj/item/reagent_containers/spray/cleaner/drone, //INF: delete medhud, add cleaner
+		/obj/item/reagent_containers/spray/cleaner/drone,
 		/obj/item/reagent_containers/borghypo/surgeon,
 		/obj/item/scalpel/manager,
 		/obj/item/hemostat,
@@ -46,7 +46,7 @@
 		/obj/item/stack/nanopaste,
 		/obj/item/stack/medical/advanced/bruise_pack,
 		/obj/item/reagent_containers/dropper
-	)
+	) //INF: delete medhud, add cleaner
 	synths = list(
 		/datum/matter_synth/medicine = 10000,
 	)
@@ -103,7 +103,7 @@
 	equipment = list(
 		/obj/item/crowbar,
 		/obj/item/device/flash,
-		/obj/item/reagent_containers/spray/cleaner/drone, //INF: delete medhud, add cleaner
+		/obj/item/reagent_containers/spray/cleaner/drone,
 		/obj/item/device/scanner/reagent/adv,
 		/obj/item/robot_rack/body_bag,
 		/obj/item/reagent_containers/borghypo/crisis,
@@ -117,7 +117,7 @@
 		/obj/item/stack/medical/ointment,
 		/obj/item/stack/medical/bruise_pack,
 		/obj/item/stack/medical/splint
-	)
+	) //INF: delete medhud, add cleaner
 	synths = list(
 		/datum/matter_synth/medicine = 15000
 	)
